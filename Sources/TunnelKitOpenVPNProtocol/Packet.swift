@@ -35,10 +35,6 @@
 //
 
 import Foundation
-import TunnelKitCore
-import TunnelKitOpenVPNCore
-import CTunnelKitCore
-import CTunnelKitOpenVPNProtocol
 
 extension ControlPacket {
 

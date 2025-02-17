@@ -24,7 +24,6 @@
 //
 
 import Foundation
-import WireGuardKit
 import NetworkExtension
 
 public protocol WireGuardConfigurationProviding {

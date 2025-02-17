@@ -36,9 +36,6 @@
 
 import Foundation
 
-// FIXME: remove dependency on TLSBox
-import CTunnelKitOpenVPNProtocol
-
 extension OpenVPN {
 
     /// Represents a cryptographic container in PEM format.

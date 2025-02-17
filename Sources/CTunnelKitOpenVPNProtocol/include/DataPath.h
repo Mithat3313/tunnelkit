@@ -36,8 +36,6 @@
 
 #import <Foundation/Foundation.h>
 
-@import CTunnelKitOpenVPNCore;
-
 NS_ASSUME_NONNULL_BEGIN
 
 @protocol DataPathEncrypter;

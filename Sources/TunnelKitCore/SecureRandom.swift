@@ -36,8 +36,6 @@
 
 import Foundation
 import Security.SecRandom
-import CTunnelKitCore
-import __TunnelKitUtils
 
 /// Errors returned by `SecureRandom`.
 public enum SecureRandomError: Error {

@@ -35,9 +35,6 @@
 //
 
 import Foundation
-import TunnelKitCore
-import CTunnelKitCore
-import CTunnelKitOpenVPNProtocol
 
 extension CoreConfiguration {
     struct OpenVPN {

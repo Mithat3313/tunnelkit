@@ -35,7 +35,7 @@
 //
 
 import Foundation
-import TunnelKitOpenVPNCore
+
 
 extension OpenVPN {
     struct PushReply: CustomStringConvertible {

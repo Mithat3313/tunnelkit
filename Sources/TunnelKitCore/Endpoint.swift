@@ -24,7 +24,6 @@
 //
 
 import Foundation
-import __TunnelKitUtils
 
 /// Represents an endpoint.
 public struct Endpoint: RawRepresentable, Codable, Equatable, CustomStringConvertible {

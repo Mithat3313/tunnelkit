@@ -24,7 +24,6 @@
 //
 
 import Foundation
-import TunnelKitCore
 
 /// Entity able to produce a `LinkInterface`.
 public protocol LinkProducer {

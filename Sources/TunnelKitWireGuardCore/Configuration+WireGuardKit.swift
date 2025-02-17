@@ -24,7 +24,6 @@
 //
 
 import Foundation
-import WireGuardKit
 
 extension WireGuard.Configuration {
     public init(wgQuickConfig: String) throws {

@@ -25,12 +25,7 @@
 
 import Foundation
 import NetworkExtension
-import TunnelKitCore
-import TunnelKitManager
-import TunnelKitWireGuardCore
-import WireGuardKit
 import SwiftyBeaver
-import __TunnelKitUtils
 
 private let log = SwiftyBeaver.self
 

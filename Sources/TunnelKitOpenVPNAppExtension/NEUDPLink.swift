@@ -25,10 +25,6 @@
 
 import Foundation
 import NetworkExtension
-import TunnelKitCore
-import TunnelKitAppExtension
-import TunnelKitOpenVPNCore
-import TunnelKitOpenVPNProtocol
 
 class NEUDPLink: LinkInterface {
     private let impl: NWUDPSession

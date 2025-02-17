@@ -24,7 +24,7 @@
 //
 
 import Foundation
-import TunnelKitOpenVPNCore
+
 
 /// Processes data packets according to a XOR method.
 public struct XORProcessor {

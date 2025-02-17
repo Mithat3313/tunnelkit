@@ -41,14 +41,6 @@ import SystemConfiguration.CaptiveNetwork
 #elseif os(macOS)
 import CoreWLAN
 #endif
-import TunnelKitCore
-import TunnelKitOpenVPNCore
-import TunnelKitManager
-import TunnelKitOpenVPNManager
-import TunnelKitOpenVPNProtocol
-import TunnelKitAppExtension
-import CTunnelKitCore
-import __TunnelKitUtils
 
 private let log = SwiftyBeaver.self
 

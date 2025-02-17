@@ -24,7 +24,7 @@
 //
 
 import Foundation
-import TunnelKitCore
+ 
 
 extension DataCount {
     public static func from(wireGuardString string: String) -> DataCount? {

@@ -35,7 +35,7 @@
 //
 
 import Foundation
-import TunnelKitOpenVPNCore
+
 
 /// The errors causing a tunnel disconnection.
 public enum TunnelKitOpenVPNError: String, Error {

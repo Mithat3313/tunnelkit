@@ -24,12 +24,8 @@
 //
 
 import Foundation
-import TunnelKitManager
-import TunnelKitCore
-import TunnelKitOpenVPNCore
 import NetworkExtension
 import SwiftyBeaver
-import __TunnelKitUtils
 
 private let log = SwiftyBeaver.self
 
